@@ -1,0 +1,14 @@
+C:\Users\USER\OneDrive\Dokumen\PBO\Tugas Model Pratikum_A1019\Tugas Model Pratikum_A1019\bin\Debug\net6.0\Tugas Model Pratikum_A1019.exe
+C:\Users\USER\OneDrive\Dokumen\PBO\Tugas Model Pratikum_A1019\Tugas Model Pratikum_A1019\bin\Debug\net6.0\Tugas Model Pratikum_A1019.deps.json
+C:\Users\USER\OneDrive\Dokumen\PBO\Tugas Model Pratikum_A1019\Tugas Model Pratikum_A1019\bin\Debug\net6.0\Tugas Model Pratikum_A1019.runtimeconfig.json
+C:\Users\USER\OneDrive\Dokumen\PBO\Tugas Model Pratikum_A1019\Tugas Model Pratikum_A1019\bin\Debug\net6.0\Tugas Model Pratikum_A1019.dll
+C:\Users\USER\OneDrive\Dokumen\PBO\Tugas Model Pratikum_A1019\Tugas Model Pratikum_A1019\bin\Debug\net6.0\Tugas Model Pratikum_A1019.pdb
+C:\Users\USER\OneDrive\Dokumen\PBO\Tugas Model Pratikum_A1019\Tugas Model Pratikum_A1019\obj\Debug\net6.0\Tugas Model Pratikum_A1019.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\OneDrive\Dokumen\PBO\Tugas Model Pratikum_A1019\Tugas Model Pratikum_A1019\obj\Debug\net6.0\Tugas Model Pratikum_A1019.AssemblyInfoInputs.cache
+C:\Users\USER\OneDrive\Dokumen\PBO\Tugas Model Pratikum_A1019\Tugas Model Pratikum_A1019\obj\Debug\net6.0\Tugas Model Pratikum_A1019.AssemblyInfo.cs
+C:\Users\USER\OneDrive\Dokumen\PBO\Tugas Model Pratikum_A1019\Tugas Model Pratikum_A1019\obj\Debug\net6.0\Tugas Model Pratikum_A1019.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive\Dokumen\PBO\Tugas Model Pratikum_A1019\Tugas Model Pratikum_A1019\obj\Debug\net6.0\Tugas Model Pratikum_A1019.dll
+C:\Users\USER\OneDrive\Dokumen\PBO\Tugas Model Pratikum_A1019\Tugas Model Pratikum_A1019\obj\Debug\net6.0\refint\Tugas Model Pratikum_A1019.dll
+C:\Users\USER\OneDrive\Dokumen\PBO\Tugas Model Pratikum_A1019\Tugas Model Pratikum_A1019\obj\Debug\net6.0\Tugas Model Pratikum_A1019.pdb
+C:\Users\USER\OneDrive\Dokumen\PBO\Tugas Model Pratikum_A1019\Tugas Model Pratikum_A1019\obj\Debug\net6.0\Tugas Model Pratikum_A1019.genruntimeconfig.cache
+C:\Users\USER\OneDrive\Dokumen\PBO\Tugas Model Pratikum_A1019\Tugas Model Pratikum_A1019\obj\Debug\net6.0\ref\Tugas Model Pratikum_A1019.dll

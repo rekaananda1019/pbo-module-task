@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Tugas Model Pratikum_A1019/1.0.0": {
+        "runtime": {
+          "Tugas Model Pratikum_A1019.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Tugas Model Pratikum_A1019/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
